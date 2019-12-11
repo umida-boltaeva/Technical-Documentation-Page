@@ -1,6 +1,6 @@
 # Technical Documentation Page
 
-This is the third project to claim Responsive Web Design Certification on freeCodeCamp.org.
+This is the second project to claim Responsive Web Design Certification on freeCodeCamp.org.
 
 You can see [demo here](https://codepen.io/Boltaeva/pen/JjjdgwW)
 
